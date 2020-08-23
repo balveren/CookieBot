@@ -1,4 +1,4 @@
-#import libraries
+#importing libraries
 from selenium import webdriver
 from termcolor import colored
 import time
